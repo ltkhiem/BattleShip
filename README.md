@@ -6,7 +6,7 @@ This is a demonstration of Socket Programming which is implemented along with a 
 
 
 
-# Introduction
+## Introduction
 
 The game rule is simple as other battle ship games. Two players will be connected and battle with each other. Everyone has **five** ships with various length:
 
@@ -50,7 +50,7 @@ Finally, start the game at the location:
 
 
 
-# Implementation Details
+## Implementation Details
 
 
 This game is implemented in a simple client-server model. On the server side, there exists a single lobby where all the clients will wait for their match. The server will pick two players randomly to match them into a game. 
