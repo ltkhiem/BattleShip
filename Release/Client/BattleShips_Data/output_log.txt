@@ -1,0 +1,108 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   23.21.13.8912
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.860298 ms
+192.168.120.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+adasdas
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   23.21.13.8912
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Uni-Life\APCS\17 - Term 1\CS494 - Internetworking Protocol\Lab\Final Project\1451030_1451067\Release\Client\BattleShips_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.568638 ms
+192.168.120.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+adasdas
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.249749 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 495.
+Total: 0.502494 ms (FindLiveObjects: 0.053456 ms CreateObjectMapping: 0.032074 ms MarkObjects: 0.315609 ms  DeleteObjects: 0.100498 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4310 -> priority: 1 
+  Thread -> id: 2da8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.491374 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 495.
+Total: 0.648324 ms (FindLiveObjects: 0.057305 ms CreateObjectMapping: 0.039344 ms MarkObjects: 0.455880 ms  DeleteObjects: 0.094511 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3c54 -> priority: 1 
+  Thread -> id: b58 -> priority: 1 
