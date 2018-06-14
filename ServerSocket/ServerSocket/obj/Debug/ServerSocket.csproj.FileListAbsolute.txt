@@ -1,0 +1,6 @@
+E:\APCS\InternetProtocol\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+E:\APCS\InternetProtocol\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+E:\APCS\InternetProtocol\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+E:\APCS\InternetProtocol\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csprojResolveAssemblyReference.cache
+E:\APCS\InternetProtocol\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+E:\APCS\InternetProtocol\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb
